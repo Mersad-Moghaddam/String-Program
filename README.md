@@ -1,4 +1,4 @@
-# Python-StringProgramm
+# Python-String-Program
 this is a OOP Programm With Python that can :
 1.delete Digit 
 2.delete spaces 
